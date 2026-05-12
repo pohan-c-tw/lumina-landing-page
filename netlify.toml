@@ -3,4 +3,5 @@
   publish = "out"
 
 [build.environment]
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
   NODE_VERSION = "22.16.0"
