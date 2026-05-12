@@ -6,7 +6,7 @@ Lumina helps product teams ask natural-language questions about Figma files so t
 
 The core Lumina Figma plugin repository is here: https://github.com/pohan-c-tw/lumina
 
-Live demo: TODO
+Live demo: https://remarkable-gingersnap-099d94.netlify.app/
 
 ## Project Scope
 
