@@ -10,8 +10,7 @@
     "dev": "next dev --webpack",
     "format": "prettier --write .",
     "lint": "eslint",
-    "start": "next start",
-    "export": "next export"
+    "start": "next start"
   },
   "dependencies": {
     "clsx": "^2.1.1",
